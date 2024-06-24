@@ -1,2 +1,1 @@
-# Openvpn
-Openvpn
+# Linux Ubuntu
